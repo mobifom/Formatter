@@ -1,0 +1,4 @@
+column name,width,datatype
+name,14,TEXT
+valid,1,BOOLEAN
+address,10,TEXT

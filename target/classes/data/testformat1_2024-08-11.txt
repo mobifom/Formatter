@@ -1,0 +1,3 @@
+Diabetes  1  FF
+Asthma    0IO9
+Stroke    *(122

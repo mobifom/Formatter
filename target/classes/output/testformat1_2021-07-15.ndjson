@@ -1,0 +1,3 @@
+{"name":"John","valid":true,"count":1}
+{"name":"Michael","valid":false,"count":-14}
+{"name":"Joe","valid":true,"count":155}

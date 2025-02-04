@@ -1,0 +1,3 @@
+Diabetes  05623578910 NZ 
+Asthma    05896745265 UAE
+Stroke    4586945523  USA

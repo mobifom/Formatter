@@ -1,0 +1,130 @@
+Nov 12, 2024 11:15:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat1_2021-07-06.txt
+Nov 12, 2024 11:15:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat1_2021-07-06.txt completed
+Nov 12, 2024 11:15:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat1_2021-07-15.txt
+Nov 12, 2024 11:15:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat1_2021-07-15.txt completed
+Nov 12, 2024 11:15:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat1_2024-08-11.txt
+Nov 12, 2024 11:15:29 AM clover.formatter.service.JSONService getValue
+WARNING: Failed to process column count in [ Diabetes  1  FF]: Invalid integer format:   F
+Nov 12, 2024 11:15:29 AM clover.formatter.service.JSONService getValue
+WARNING: Failed to process column count in [ Asthma    0IO9]: Invalid integer format: IO9
+Nov 12, 2024 11:15:29 AM clover.formatter.service.JSONService getValue
+WARNING: Failed to process column count in [ Stroke    *(122]: Invalid integer format: (12
+Nov 12, 2024 11:15:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat1_2024-08-11.txt completed
+Nov 12, 2024 11:15:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat2_2024-07-06 .txt
+Nov 12, 2024 11:15:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat2_2024-07-06 .txt completed
+Nov 12, 2024 11:15:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat3_2024-09-10.txt
+Nov 12, 2024 11:15:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat3_2024-09-10.txt completed
+Nov 12, 2024 11:15:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat4_2024-11-10.txt
+Nov 12, 2024 11:15:29 AM clover.formatter.service.FileDataHandler getSpecs
+WARNING: Failed to load specs for testformat4
+Nov 12, 2024 11:15:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat4_2024-11-10.txt completed
+Nov 12, 2024 11:17:17 AM clover.formatter.service.FileDataHandler processFiles
+WARNING: Failed to locate data directory D:\books\Clover Interview Prep\Engineering Homework\clover.formatter\src\main\resources\data\: null
+Nov 12, 2024 11:21:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat1_2021-07-06.txt
+Nov 12, 2024 11:21:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat1_2021-07-06.txt completed
+Nov 12, 2024 11:21:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat1_2021-07-15.txt
+Nov 12, 2024 11:21:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat1_2021-07-15.txt completed
+Nov 12, 2024 11:21:29 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat1_2024-08-11.txt
+Nov 12, 2024 11:21:30 AM clover.formatter.service.JSONService getValue
+WARNING: Failed to process column count in [ Diabetes  1  FF]: Invalid integer format:   F
+Nov 12, 2024 11:21:30 AM clover.formatter.service.JSONService getValue
+WARNING: Failed to process column count in [ Asthma    0IO9]: Invalid integer format: IO9
+Nov 12, 2024 11:21:30 AM clover.formatter.service.JSONService getValue
+WARNING: Failed to process column count in [ Stroke    *(122]: Invalid integer format: (12
+Nov 12, 2024 11:21:30 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat1_2024-08-11.txt completed
+Nov 12, 2024 11:21:30 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat2_2024-07-06 .txt
+Nov 12, 2024 11:21:30 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat2_2024-07-06 .txt completed
+Nov 12, 2024 11:21:30 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat3_2024-09-10.txt
+Nov 12, 2024 11:21:30 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat3_2024-09-10.txt completed
+Nov 12, 2024 11:21:30 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat4_2024-11-10.txt
+Nov 12, 2024 11:21:30 AM clover.formatter.service.FileDataHandler getSpecs
+WARNING: Failed to load specs for testformat4
+Nov 12, 2024 11:21:30 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat4_2024-11-10.txt completed
+Nov 12, 2024 11:21:37 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat1_2021-07-06.txt
+Nov 12, 2024 11:21:37 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat1_2021-07-06.txt completed
+Nov 12, 2024 11:21:37 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat1_2021-07-15.txt
+Nov 12, 2024 11:21:37 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat1_2021-07-15.txt completed
+Nov 12, 2024 11:21:37 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat1_2024-08-11.txt
+Nov 12, 2024 11:21:37 AM clover.formatter.service.JSONService getValue
+WARNING: Failed to process column count in [ Diabetes  1  FF]: Invalid integer format:   F
+Nov 12, 2024 11:21:37 AM clover.formatter.service.JSONService getValue
+WARNING: Failed to process column count in [ Asthma    0IO9]: Invalid integer format: IO9
+Nov 12, 2024 11:21:37 AM clover.formatter.service.JSONService getValue
+WARNING: Failed to process column count in [ Stroke    *(122]: Invalid integer format: (12
+Nov 12, 2024 11:21:37 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat1_2024-08-11.txt completed
+Nov 12, 2024 11:21:37 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat2_2024-07-06 .txt
+Nov 12, 2024 11:21:37 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat2_2024-07-06 .txt completed
+Nov 12, 2024 11:21:37 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat3_2024-09-10.txt
+Nov 12, 2024 11:21:37 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat3_2024-09-10.txt completed
+Nov 12, 2024 11:21:37 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Start processing for file: testformat4_2024-11-10.txt
+Nov 12, 2024 11:21:37 AM clover.formatter.service.FileDataHandler getSpecs
+WARNING: Failed to load specs for testformat4
+Nov 12, 2024 11:21:37 AM clover.formatter.service.FileDataHandler processFiles
+INFO: Processing for file: testformat4_2024-11-10.txt completed
+Nov 12, 2024 11:38:02 AM clover.formatter.service.FileDataHandler processDataFile
+INFO: Start processing for file: testformat1_2021-07-06.txt
+Nov 12, 2024 11:38:02 AM clover.formatter.service.FileDataHandler processDataFile
+INFO: Processing for file: testformat1_2021-07-06.txt completed
+Nov 12, 2024 11:38:02 AM clover.formatter.service.FileDataHandler processDataFile
+INFO: Start processing for file: testformat1_2021-07-15.txt
+Nov 12, 2024 11:38:02 AM clover.formatter.service.FileDataHandler processDataFile
+INFO: Processing for file: testformat1_2021-07-15.txt completed
+Nov 12, 2024 11:38:02 AM clover.formatter.service.FileDataHandler processDataFile
+INFO: Start processing for file: testformat1_2024-08-11.txt
+Nov 12, 2024 11:38:02 AM clover.formatter.service.JSONService getValue
+WARNING: Failed to process column count in [ Diabetes  1  FF]: Invalid integer format:   F
+Nov 12, 2024 11:38:02 AM clover.formatter.service.JSONService getValue
+WARNING: Failed to process column count in [ Asthma    0IO9]: Invalid integer format: IO9
+Nov 12, 2024 11:38:02 AM clover.formatter.service.JSONService getValue
+WARNING: Failed to process column count in [ Stroke    *(122]: Invalid integer format: (12
+Nov 12, 2024 11:38:02 AM clover.formatter.service.FileDataHandler processDataFile
+INFO: Processing for file: testformat1_2024-08-11.txt completed
+Nov 12, 2024 11:38:02 AM clover.formatter.service.FileDataHandler processDataFile
+INFO: Start processing for file: testformat2_2024-07-06 .txt
+Nov 12, 2024 11:38:02 AM clover.formatter.service.FileDataHandler processDataFile
+INFO: Processing for file: testformat2_2024-07-06 .txt completed
+Nov 12, 2024 11:38:02 AM clover.formatter.service.FileDataHandler processDataFile
+INFO: Start processing for file: testformat3_2024-09-10.txt
+Nov 12, 2024 11:38:02 AM clover.formatter.service.FileDataHandler processDataFile
+INFO: Processing for file: testformat3_2024-09-10.txt completed
+Nov 12, 2024 11:38:02 AM clover.formatter.service.FileDataHandler processDataFile
+INFO: Start processing for file: testformat4_2024-11-10.txt
+Nov 12, 2024 11:38:02 AM clover.formatter.service.FileDataHandler getSpecs
+WARNING: Failed to load specs for testformat4
+Nov 12, 2024 11:38:02 AM clover.formatter.service.FileDataHandler processDataFile
+INFO: Processing for file: testformat4_2024-11-10.txt completed
